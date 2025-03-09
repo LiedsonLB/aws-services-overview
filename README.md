@@ -71,6 +71,17 @@ Por: [Liedson Barros LB](https://www.linkedin.com/in/liedsonlb/)
 ## 🕶 Serviços de Realidade Aumentada e Virtual
 - **Amazon Sumerian** → Criação de aplicações de AR, VR e 3D sem necessidade de programação avançada.
 
+## 🗄 Serviços de Banco de Dados
+- **Amazon RDS** → Banco de dados relacional gerenciado.
+- **Amazon DynamoDB** → Banco de dados NoSQL rápido e flexível.
+- **Amazon Aurora** → Banco de dados relacional compatível com MySQL e PostgreSQL.
+- **Amazon DocumentDB** → Banco de dados de documentos compatível com MongoDB.
+- **Amazon Neptune** → Banco de dados de grafos.
+- **Amazon ElastiCache** → Cache na memória gerenciado para Redis e Memcached.
+- **Amazon Timestream** → Banco de dados de séries temporais.
+- **Amazon QLDB** → Banco de dados de razão imutável e transparente.
+- **Amazon Keyspaces** → Banco de dados compatível com Apache Cassandra.
+
 ## 🏛 Well-Architected Framework
 A AWS fornece um conjunto de boas práticas chamado AWS Well-Architected Framework, que se baseia em seis pilares:
 - **Excelência Operacional** → Monitoramento, automação e melhoria contínua.
